@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1NFktrCiFJ6A4wGoNnuBVcQsQJSOkQ5X8quk6/v3XA2RrNl0g6fj7ZbcxhQEjXf5RA5x3d/cB+MPcfsetSrZw==",
+  "success": true,
+  "projectFilePath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

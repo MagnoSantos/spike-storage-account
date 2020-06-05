@@ -1,0 +1,12 @@
+C:\DTI\spike\BlobStorageContainer.Service\bin\Debug\netcoreapp3.1\BlobStorageContainer.Interface.dll
+C:\DTI\spike\BlobStorageContainer.Service\obj\Debug\netcoreapp3.1\BlobStorageContainer.Service.csprojAssemblyReference.cache
+C:\DTI\spike\BlobStorageContainer.Service\obj\Debug\netcoreapp3.1\BlobStorageContainer.Service.AssemblyInfoInputs.cache
+C:\DTI\spike\BlobStorageContainer.Service\obj\Debug\netcoreapp3.1\BlobStorageContainer.Service.AssemblyInfo.cs
+C:\DTI\spike\BlobStorageContainer.Service\bin\Debug\netcoreapp3.1\BlobStorageContainer.Service.deps.json
+C:\DTI\spike\BlobStorageContainer.Service\bin\Debug\netcoreapp3.1\BlobStorageContainer.Service.dll
+C:\DTI\spike\BlobStorageContainer.Service\bin\Debug\netcoreapp3.1\BlobStorageContainer.Service.pdb
+C:\DTI\spike\BlobStorageContainer.Service\bin\Debug\netcoreapp3.1\BlobStorageContainer.Interface.pdb
+C:\DTI\spike\BlobStorageContainer.Service\obj\Debug\netcoreapp3.1\BlobStorageContainer.Service.csproj.CoreCompileInputs.cache
+C:\DTI\spike\BlobStorageContainer.Service\obj\Debug\netcoreapp3.1\BlobStorageContainer.Service.csproj.CopyComplete
+C:\DTI\spike\BlobStorageContainer.Service\obj\Debug\netcoreapp3.1\BlobStorageContainer.Service.dll
+C:\DTI\spike\BlobStorageContainer.Service\obj\Debug\netcoreapp3.1\BlobStorageContainer.Service.pdb
