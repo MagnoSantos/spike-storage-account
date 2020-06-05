@@ -7,3 +7,11 @@ C:\DTI\spike\BlobStorageContainer.Interface\obj\Debug\netcoreapp3.1\BlobStorageC
 C:\DTI\spike\BlobStorageContainer.Interface\obj\Debug\netcoreapp3.1\BlobStorageContainer.Interface.csproj.CoreCompileInputs.cache
 C:\DTI\spike\BlobStorageContainer.Interface\obj\Debug\netcoreapp3.1\BlobStorageContainer.Interface.dll
 C:\DTI\spike\BlobStorageContainer.Interface\obj\Debug\netcoreapp3.1\BlobStorageContainer.Interface.pdb
+C:\DTI\spike\spike-storage-account\BlobStorageContainer.Interface\bin\Debug\netcoreapp3.1\BlobStorageContainer.Interface.deps.json
+C:\DTI\spike\spike-storage-account\BlobStorageContainer.Interface\bin\Debug\netcoreapp3.1\BlobStorageContainer.Interface.dll
+C:\DTI\spike\spike-storage-account\BlobStorageContainer.Interface\bin\Debug\netcoreapp3.1\BlobStorageContainer.Interface.pdb
+C:\DTI\spike\spike-storage-account\BlobStorageContainer.Interface\obj\Debug\netcoreapp3.1\BlobStorageContainer.Interface.csprojAssemblyReference.cache
+C:\DTI\spike\spike-storage-account\BlobStorageContainer.Interface\obj\Debug\netcoreapp3.1\BlobStorageContainer.Interface.AssemblyInfoInputs.cache
+C:\DTI\spike\spike-storage-account\BlobStorageContainer.Interface\obj\Debug\netcoreapp3.1\BlobStorageContainer.Interface.AssemblyInfo.cs
+C:\DTI\spike\spike-storage-account\BlobStorageContainer.Interface\obj\Debug\netcoreapp3.1\BlobStorageContainer.Interface.dll
+C:\DTI\spike\spike-storage-account\BlobStorageContainer.Interface\obj\Debug\netcoreapp3.1\BlobStorageContainer.Interface.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj": {}
+    "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj": {}
   },
   "projects": {
-    "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj": {
+    "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj",
+        "projectUniqueName": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj",
         "projectName": "BlobStorageContainer.Interface",
-        "projectPath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj",
+        "projectPath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\obj\\",
+        "outputPath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

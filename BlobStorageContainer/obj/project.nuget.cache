@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pbq+yXjsvxwq6Iu7/W21VfeYuBC7LnC4gN3hClQQAisAKn3/1bq/D6S710hmMtrv+QZ/iyj9JrYDAfnIeQ8UtA==",
+  "dgSpecHash": "4QJbRfpQeP5xY31PvsmRvUFMmDlPOsjMffdHTgbDT7H7oDCxOWWtfnBB9qs1BCIxiuZzUr+LZjI9MT5hI+FWow==",
   "success": true,
-  "projectFilePath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer\\BlobStorageContainer.csproj",
+  "projectFilePath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer\\BlobStorageContainer.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.4\\microsoft.extensions.configuration.3.1.4.nupkg.sha512",

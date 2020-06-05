@@ -5604,11 +5604,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer\\BlobStorageContainer.csproj",
+      "projectUniqueName": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer\\BlobStorageContainer.csproj",
       "projectName": "BlobStorageContainer",
-      "projectPath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer\\BlobStorageContainer.csproj",
+      "projectPath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer\\BlobStorageContainer.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer\\obj\\",
+      "outputPath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5627,11 +5627,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj": {
-              "projectPath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj"
+            "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj": {
+              "projectPath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj"
             },
-            "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj": {
-              "projectPath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj"
+            "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj": {
+              "projectPath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj"
             }
           }
         }

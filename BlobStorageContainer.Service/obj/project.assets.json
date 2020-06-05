@@ -5248,11 +5248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj",
+      "projectUniqueName": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj",
       "projectName": "BlobStorageContainer.Service",
-      "projectPath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj",
+      "projectPath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Service\\obj\\",
+      "outputPath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5271,8 +5271,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj": {
-              "projectPath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj"
+            "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj": {
+              "projectPath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Interface\\BlobStorageContainer.Interface.csproj"
             }
           }
         }

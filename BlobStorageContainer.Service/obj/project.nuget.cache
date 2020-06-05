@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6bvbA7CIQZ99q7YUh5TNBkZyn/bWTXoRaniHfWXOQFFBYs20HsyNRvGFhe2MLxVI9tOOihD6pbyjSSlKhie3kw==",
+  "dgSpecHash": "hZEx7MY27uJx/kSd1juwUREgg37dowQcRKtcigSk53+9Jm4fCiLWxFDDN0MXEkWEhhp+9DuNSoEK4yxrSnqHDA==",
   "success": true,
-  "projectFilePath": "C:\\DTI\\spike\\spike_storage_account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj",
+  "projectFilePath": "C:\\DTI\\spike\\spike-storage-account\\BlobStorageContainer.Service\\BlobStorageContainer.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
