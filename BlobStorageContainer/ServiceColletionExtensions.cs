@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using Microsoft.WindowsAzure.Storage;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 
 namespace BlobStorageContainer
 {
@@ -29,6 +30,7 @@ namespace BlobStorageContainer
 
         public static ServiceCollection ConfigurarDependencias()
         {
+            _serviceCollection.AddTransient<IAzureQueue, AzureQueue>();
             _serviceCollection.AddTransient<IBlobStorage, BlobStorage>();
             _serviceCollection.AddSingleton(_serviceCollection =>
             {
